@@ -4,12 +4,14 @@ body {
     justify-content: center;
     flex-direction: column;
     justify-content: space-evenly;
+    background-color: rgb(23, 22, 22);
+    color: white;
 }
 
 .colors{
     width: 100px;
     height: 100px;
-    border: 2px solid black;
+    border: 2px solid white;
     align-items: center;
     margin-bottom: 2rem;
 }
@@ -17,7 +19,7 @@ body {
 .text{
     width: 100px;
     height: 100px;
-    border: 2px solid black;
+    border: 2px solid white;
     margin-bottom: 2rem;
 }
 
